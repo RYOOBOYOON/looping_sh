@@ -5,5 +5,5 @@
 # 실행
 abc.sh
 
-- 그라운드,
+- 그라운드 
 abc.sh &> output.txt &
