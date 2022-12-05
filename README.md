@@ -5,5 +5,5 @@
 # 실행
 abc.sh
 
-- 
+- backgroun log
 abc.sh &> output.txt &
